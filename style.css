@@ -1,1 +1,6 @@
-
+.post-container {
+  margin: 0.5em;
+  padding: 1em;
+  border: 1px solid;
+  border-radius: 2px;
+}

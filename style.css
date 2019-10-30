@@ -6,15 +6,15 @@ header {
   min-height: 75vh;
   background-color: #fafafa;
   padding: 1em;
-  box-sizing: border-box;
+  box-sizing: border-box; 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
-// sigh okay so the flex display isn't aligning my items in the center and since I don't have any debugging tools (typing on my phone and all), I have to manually change properties till I figure out what the problem is. Which is great (read:gross)
-// also, is this how to write a comment in CSS? You know, now that I think about it, I realize I included a comment inside the CSS rule declaration above and that's probably where my error is coming from so lemme take that out.
+/** sigh okay so the flex display isn't aligning my items in the center and since I don't have any debugging tools (typing on my phone and all), I have to manually change properties till I figure out what the problem is. Which is great (read:gross) */
+/** also, is this how to write a comment in CSS? You know, now that I think about it, I realize I included a comment inside the CSS rule declaration above and that's probably where my error is coming from so lemme take that out.*/
 
 /** okay wait, I think this is how comments are written */
 

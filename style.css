@@ -10,13 +10,19 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: center;
 }
 
 /** sigh okay so the flex display isn't aligning my items in the center and since I don't have any debugging tools (typing on my phone and all), I have to manually change properties till I figure out what the problem is. Which is great (read:gross) */
 /** also, is this how to write a comment in CSS? You know, now that I think about it, I realize I included a comment inside the CSS rule declaration above and that's probably where my error is coming from so lemme take that out.*/
 
 /** okay wait, I think this is how comments are written */
+
+header h1,
+header h2, 
+header p {
+  margin: 0 0.5em;
+  text-align: center;
+}
 
 .post-container {
   margin: 0.5em;

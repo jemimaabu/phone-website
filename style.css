@@ -3,13 +3,13 @@ body {
 }
 
 header {
-  min-height: 95vh;
+  min-height: 90vh;
   background-color: #fafafa;
   padding: 1em;
   box-sizing: border-box; 
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 /** sigh okay so the flex display isn't aligning my items in the center and since I don't have any debugging tools (typing on my phone and all), I have to manually change properties till I figure out what the problem is. Which is great (read:gross) */

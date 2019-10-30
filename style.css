@@ -22,7 +22,6 @@ header {
 header h1,
 header h2, 
 header p {
-  margin: 0 0.5em;
   text-align: center;
 }
 

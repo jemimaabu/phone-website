@@ -4,9 +4,13 @@ body {
 
 header {
   min-height: 75vh;
-  background-color: #eaeaea;
+  background-color: #fafafa;
   padding: 1em;
-  box-sizing: border-box //just realized I've never typed this without that auto-suggest thing. Lol cool
+  box-sizing: border-box; //just realized I've never typed this without that auto-suggest thing. Lol cool
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .post-container {

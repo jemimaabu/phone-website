@@ -10,7 +10,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 
 /** sigh okay so the flex display isn't aligning my items in the center and since I don't have any debugging tools (typing on my phone and all), I have to manually change properties till I figure out what the problem is. Which is great (read:gross) */

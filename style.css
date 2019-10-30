@@ -2,6 +2,13 @@ body {
   margin: 0;
 }
 
+header {
+  min-height: 75vh;
+  background-color: #eaeaea;
+  padding: 1em;
+  box-sizing: border-box //just realized I've never typed this without that auto-suggest thing. Lol cool
+}
+
 .post-container {
   margin: 0.5em;
   padding: 1em;

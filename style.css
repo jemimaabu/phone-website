@@ -25,9 +25,14 @@ header p {
   text-align: center;
 }
 
+#posts {
+  padding: 1em;
+}
+
 .post-container {
   margin: 0.5em;
   padding: 1em;
   border: 1px solid;
   border-radius: 2px;
 }
+

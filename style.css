@@ -4,7 +4,8 @@ body {
 
 header {
   min-height: 90vh;
-  background-color: #fafafa;
+  background-color: #123;
+  color: #fafafa;
   padding: 1em;
   box-sizing: border-box; 
   display: flex;
